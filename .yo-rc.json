@@ -1,0 +1,10 @@
+{
+  "generator-backbone": {
+    "appPath": "app",
+    "appName": "Defaults",
+    "templateFramework": "lodash",
+    "sassBootstrap": true,
+    "coffee": true,
+    "includeRequireJS": false
+  }
+}

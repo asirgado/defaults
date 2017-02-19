@@ -1,0 +1,8 @@
+{
+  "dev": {
+    "api": "//localhost:9050/"
+  },
+  "prod": {
+    "api": "/api/"
+  }
+}
